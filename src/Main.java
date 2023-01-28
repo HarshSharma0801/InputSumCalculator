@@ -12,9 +12,9 @@ public class Main {
               double i = Double.parseDouble(n);
             sum+=i;
             counter++;}catch (NumberFormatException BadUserData){
-              System.out.println("Invalid Value");
+              System.out.println("Invalid Value Try Again ");
           }
         }
-        System.out.println("Your Total Sum of 5 numbers is "+sum);
+        System.out.println("Your Total Sum is equal to : "+sum);
     }
 }
