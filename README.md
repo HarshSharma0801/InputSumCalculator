@@ -1,3 +1,2 @@
 # InputChallenge
-taking input in java
- 
+taking input in a java file 
